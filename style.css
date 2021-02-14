@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: absolute;
+    height: 50%;
+    left: 0px;
+    top: 0px;
+
+    background: #060507;
+    
+}
+
+.fon{
+    width: 1000px;
+    height: 500px;
+    margin-top: 230px;
+    position: absolute;
+    
+}
+
+/*  */
+
+.asosiy2{
+    
+}
+.block{
+    /* display: flex;
+    flex-direction: row; */
+    border: 1px solid rgb(247, 234, 234);
+    position: absolute;
+    width: 1000px;
+    height: 600px;
+    margin: 70px 120px;
+    background: #060507;
+    border-radius: 32px;
+}
+.menyu{
+    margin-top: 45px;
+}
+.logo{
+    margin-left: 30px;
+    width: 130px;
+    height: 20px;
+}
+.bir{
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 40px;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+
+}
+.gold2{
+    width: 350px;
+    height: 250px;
+    float: right;
+    margin-top: -74px;
+    border-top-right-radius: 32px;
+}
+.asosiy3{
+    display: flex;
+    flex-direction: row;
+    background: black;
+    margin-top:30px ;
+    padding-top: -200px;
+}
+.moto{
+    width: 800px;
+    height: 300px;
+    margin-left: -105px;
+    
+}
+.disk{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    margin-left: 580px;
+    
+    
+}
+
+/*  */
+
+.asosiy4{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+}
+.yapon{
+    margin-top: -50px;
+    width: 500px;
+    height: 70px;
+}
+
+/*  */
+
+.box2{
+    height: 360px;
+    width: 220px;
+    background: rgb(10, 10, 10);
+    position: absolute;
+    margin-left: 780px;
+    margin-top: -158px;
+    border-bottom-right-radius: 32px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap:1px;
+}
+
+.mil img{
+    
+    width: 150px;
+    height: 70px;
+    left: 1573px;
+    top: 1123.08px;
+    padding: 0px 30px;
+}
+
+/*  */
+
+.box3{
+    display: flex;
+
+}
+.info{
+    width: 500px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.krila{
+    width: 250px;
+    height: 250px;
+    margin-top: -25px;
+    margin-left: 10px;
+}
